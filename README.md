@@ -40,8 +40,9 @@ bot = telepot.Bot('токен_бота')
 # Документация
 Telegram Bot API - core.telegram.org/bots/api
 
+Telepot. Introduction - telepot.readthedocs.io/en/latest/index.html
+
 InlineKeyboardMarkup — core.telegram.org/bots/api#inlinekeyboardmarkup 
 
 CallbackQuery - core.telegram.org/bots/api#callbackquery
 
-Telepot. Introduction - telepot.readthedocs.io/en/latest/index.html
