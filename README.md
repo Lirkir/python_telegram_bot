@@ -7,12 +7,12 @@
 /joke – выдает категории фактов на выбор
 
 
-Создание бота.
-В Telegram написать BotFather. /n
-/newbot – создание нового бота /n
-Написать имя бота в виде (название)_bot /n
-/token – получение токена  /n
-После последней команды набрать имя бота, к которому необходим токен. /n
+# Создание бота.
+В Telegram написать BotFather. 
+/newbot – создание нового бота 
+Написать имя бота в виде (название)_bot 
+/token – получение токена  
+После последней команды набрать имя бота, к которому необходим токен. 
 Бот создан.
 
 На сервер необходимо загрузить файл для бота.
@@ -21,7 +21,7 @@ bot = telepot.Bot('токен_бота')
 
 
 
-Документация
+# Документация
 Telefram Bot API - core.telegram.org/bots/api
 InlineKeyboardMarkup — core.telegram.org/bots/api#inlinekeyboardmarkup 
 CallbackQuery - core.telegram.org/bots/api#callbackquery
