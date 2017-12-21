@@ -31,7 +31,7 @@ bot = telepot.Bot('токен_бота')
 
 
 # Документация
-Telefram Bot API - core.telegram.org/bots/api
+Telegram Bot API - core.telegram.org/bots/api
 
 InlineKeyboardMarkup — core.telegram.org/bots/api#inlinekeyboardmarkup 
 
